@@ -1,0 +1,44 @@
+ul {
+  list-style-type: circle;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+/*
+.info {
+  color: green;
+  background: lightgray;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+
+  color: red;
+  background: lightgray;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+
+
+}
+
+.button2 {
+
+  background-color: rgb(98, 196, 241);
+}
+
+
+
+td {
+  padding: 0 40px 0 0;
+}
+
+*/
